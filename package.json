@@ -1,0 +1,21 @@
+{
+    "name": "ayu-black",
+    "displayName": "ayu-black",
+    "description": "ayu-dark borderless modified for perfect black backgrounds",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ayu-black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ayu-black-color-theme.json"
+            }
+        ]
+    }
+}
